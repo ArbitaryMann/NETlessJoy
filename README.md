@@ -7,4 +7,4 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-NetlessPad is an iOS application that allows you to control your computer from your iOS device with just its Deamon. AltStore resigns apps with your personal development certificate and sends them to a desktop app, AltServer, which installs the resigned apps back to your device using iTunes WiFi sync. To prevent apps from expiring, AltStore will also periodically refresh your apps in the background when on the same WiFi as AltServer.
+NetlessPad is an iOS application that allows you to control your computer from your iOS device with just its Deamon.
