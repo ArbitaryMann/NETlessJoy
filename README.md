@@ -1,4 +1,7 @@
 # NetlessPad
-A utility that converts your iOS/Android device into Wireless Gamepad for your computer
 
-The source is going to be private until further releases...
+> NetlessPad is an utility to convert your Mobile Device into a wireless controller 
+
+[![Swift Version](https://img.shields.io/badge/swift-5.0-orange.svg)](https://swift.org/)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.
