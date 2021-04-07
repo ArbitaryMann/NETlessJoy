@@ -8,3 +8,9 @@
 
 
 NetlessPad is an iOS application that allows you to control your computer from your iOS device with just its Deamon.
+
+## Features
+- Communication via the deamon installed to your PC/Mac
+- Realtime Control
+- Auto Updating Daemon
+- Cellular support after NAT Port-Forwarding
